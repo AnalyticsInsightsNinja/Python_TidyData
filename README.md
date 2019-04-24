@@ -1,7 +1,11 @@
-# TidyData
-How to use Python to understand data and transform the data into a tidy format ready to be used for modelling and visualisation.
+# Pandas Data Exploration Journey
+The Pandas Data Exploration Journey series will consist of following notebooks :
+1. Pandas Exploratory Data Analkysis (EDA)
+2. Data Quality and Transformations Decisions
+3. Tidy Data and Data Tranformations (including dataset memory optimisation for big data)
+4. Analytics & Visualisations
 
-**Objective**<br>
+## Objective
 The main objective of this notebook is only to understand and explore the raw data. The code is largely kept generic so that it could be used with any shape of data. Any data quality or data tidying recommendations or decisions specific to the sample data set are not documented in this notebook to maintain clarity and keep the focus only in data exploration.  
 Any data quality or data tidying recommendations or decisions specific to the sample data set will be dealt in follow up notebooks in this series. The reason for seperating these into several notebooks is to maintain clarity and simplicity in each step of the data preparation journey.
 

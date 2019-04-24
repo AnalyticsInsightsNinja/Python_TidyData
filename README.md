@@ -9,7 +9,7 @@ The Pandas Data Exploration Journey series will consist of following notebooks :
 The main objective of this notebook is only to understand and explore the raw data. The code is largely kept generic so that it could be used with any shape of data. Any data quality or data tidying recommendations or decisions specific to the sample data set are not documented in this notebook to maintain clarity and keep the focus only in data exploration.  
 Any data quality or data tidying recommendations or decisions specific to the sample data set will be dealt in follow up notebooks in this series. The reason for seperating these into several notebooks is to maintain clarity and simplicity in each step of the data preparation journey.
 
-# The Game Changer  
+# Data Qaulity Dataframe - The Game Changer  
 The game changer for data quaity analysis is the final ***Data Qaulity Dataframe*** that is generated which combines ***all*** the information required to inform data cleaning, tidy data and optimisations (memory and processing) decions.  
 Instead of using variuos pandas commands at different instances and going back and forth to cross refer information, Data Quality Dataframe brings all information into a single dataframe. This can then be used to generate data quality related information and plotting to understand data. 
 

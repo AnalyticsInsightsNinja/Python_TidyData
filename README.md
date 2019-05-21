@@ -1,6 +1,6 @@
 # Pandas Data Exploration Journey
 The Pandas Data Exploration Journey series will consist of following notebooks :
-1. Pandas Exploratory Data Analkysis (EDA)
+1. Data Profiling (01_12_av_automated_data_profiling.ipynb)
 2. Data Quality and Transformations Decisions
 3. Tidy Data and Data Tranformations (including dataset memory optimisation for big data)
 4. Analytics & Visualisations

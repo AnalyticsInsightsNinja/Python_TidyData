@@ -13,7 +13,7 @@ Any data quality or data tidying recommendations or decisions specific to the sa
 The game changer for data quaity analysis is the final ***Data Profile Dataframe*** that is generated which combines ***all*** the information required to inform data cleaning, tidy data and optimisations (memory and processing) decions.  
 Instead of using variuos pandas commands at different instances and going back and forth to cross refer information, Data Quality Dataframe brings all information into a single dataframe. This can then be used to generate data quality related information and plotting to understand data. 
 
-![image.png](DataQualityDataFrame.jpg)
+![image.png](DPD_image_small.png)
 
 
 Understanding the data is **the critical step** in preparaing the data to be used for analytics. As many experts will point out the data preparation and tranforming the data into a tidy format takes about 80% of the effort in any data analytics or data anlysis project.<br>

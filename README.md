@@ -6,13 +6,14 @@ The Pandas Data Exploration Journey series will consist of following notebooks :
 4. Analytics & Visualisations
 
 ## Objective
-The main objective of this notebook is only to understand the data using Data Profiling. The code is largely kept generic so that it could be used with any shape of data. Any data quality or data tidying recommendations or decisions specific to the sample data set are will be dealt in other notebooks.  
+The main objective of this notebook is only to understand the data using Data Profiling.  ***The output is a MS Woprd document which documents all the data profiling infoprmation and plots for the given data file.***
+The code is largely kept generic so that it could be used with any shape of data. Any data quality or data tidying recommendations will be dealt in other notebooks.  
 
 # Data Profile Dataframe (DPD) - The Game Changer  
 The game changer for exploratory data analysis is the final ***Data Profile Dataframe*** that is generated which combines ***all*** the information required to inform data cleaning, tidy data and optimisations (memory and processing) decisions.  
 Instead of using various Pandas commands at different instances and going back and forth to cross refer information, Data Profile Dataframe brings all information into a single dataframe. This will be very useful when reviewing the data profile with the business subject matter or other team members as all information related to data profile is in a single easy to understand format.
 
-![image.png](SAMPLE_FULL_DPD_Image_MSWORD.png)
+![image.png](SAMPLE_FULL_DPD_Image_MSWORD.PNG)
 
 
 Understanding the data is **the critical step** in preparing the data to be used for analytics. As many experts will point out the data preparation and transforming the data into a tidy format takes about 80% of the effort in any data analytics or data analysis project.<br>

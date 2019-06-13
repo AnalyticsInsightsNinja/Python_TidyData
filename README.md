@@ -1,6 +1,6 @@
 # Pandas Data Exploration Journey
 The Pandas Data Exploration Journey series will consist of following notebooks :
-1. Data Profiling (01_12_av_automated_data_profiling.ipynb)
+1. Data Profiling (01_16_av_automated_data_profiling_MS_WORD.ipynb)
 2. Data Quality and Transformations Decisions
 3. Tidy Data and Data Tranformations  
 4. Analytics & Visualisations
